@@ -6,7 +6,6 @@ Made for school
 Game made in Scratch / Turbowarp\
 Music created in Beepbox (Slarmoosbox)
 
-<br>
 
 ## Storyline & Mechanics:
 ### - *Original / Planned-Out Story*
